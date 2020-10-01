@@ -1,2 +1,5 @@
-# genetic-algorithm-for-water-distribution
-This repository contains code for genetic algorithm used for water distribution problem
+# Genetic algorithm for optimization
+This repository contains code for genetic algorithm used for optimization problems.
+
+Use cases:
+- It can be used in solving any problem involving seperable non-linear function with linear constraints. 
